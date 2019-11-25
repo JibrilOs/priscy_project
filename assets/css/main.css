@@ -1266,6 +1266,11 @@ input, select, textarea {
 		}
 
 		@media screen and (max-width: 736px) {
+			.image .pee {
+				display: block;
+				transform: translate(-11%, 0%) !important;
+
+			}
 
 			.row {
 				display: flex;
@@ -1507,6 +1512,7 @@ input, select, textarea {
 						.row.gtr-200.gtr-uniform > * {
 							padding-top: 3em;
 						}
+						
 
 		}
 
